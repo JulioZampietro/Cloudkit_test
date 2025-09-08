@@ -1,7 +1,7 @@
 # Cloudkit_test
 A test project for me to learn and apply CloudKit
 
-SwiftUI / CloudKit
+Tech stack: SwiftUI / CloudKit
 
 ## Project overview
 A learning project in which I implemented code for a to-do app based on AzamSharp's tutorial and project (see https://github.com/azamsharp/TaskAppCloudKit/tree/main/TaskTracker). Afterwards, I included a tab bar with two new features: a button for uploading videos for the iCloud database, and a feed view to display and delete these videos.
